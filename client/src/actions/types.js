@@ -1,0 +1,10 @@
+export const AUTH_USER = 'AUTH_USER';
+export const UNAUTH_USER = 'UNAUTH_USER';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const GET_PRODUCT_ERROR = 'GET_PRODUCT_ERROR';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const GET_USER_PROFILE = 'GET_USER_PROFILE';
+export const UPDATE_USER_PROFILE = 'UPDATE_USER_PROFILE';
+export const SEARCH_PRODUCT = 'SEARCH_PRODUCT';
