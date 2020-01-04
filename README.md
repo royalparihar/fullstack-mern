@@ -1,7 +1,7 @@
 
 ## clone or download
 ```terminal
-$ git clone https://github.com/royalparihar22/shopping.git
+$ git clone https://github.com/royalparihar/fullstack-mern.git
 $ npm i
 ```
 
